@@ -1,1 +1,1 @@
-{'ich': 'I', 'guten morgen': 'good morning', 'gute nacht': 'good night', 'guten tag': 'good day', 'guten apend': 'good evening'}
+{'ich': 'I', 'guten morgen': 'good morning', 'gute nacht': 'good night', 'guten tag': 'good day', 'guten abend': 'good evening'}
